@@ -2,4 +2,4 @@ hello world
 
 hello python
 
-os.path.join(BASE_DIRS)
+os.path.join(BASE_DIRS,"http://www.baidu.com")
